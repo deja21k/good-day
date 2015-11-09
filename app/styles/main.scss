@@ -14,34 +14,29 @@ header {
     background-image: url('../images/HeaderBG.jpg');
     background-repeat: no-repeat;
     background-size: cover;
-}
-header h3 {
-    font: 400 52px / 24px Belinda;
-    color: #ffffff;
-    padding:65px 0;
-
-}
-header li {
-    font: 600 13px / 24px OpenSans;
-    color: #ffffff;
-    text-decoration:none;
-    color: #ffffff;
-    display:inline;
-    padding:0 20px 0 0;
-    text-transform: uppercase;
-
-}
-
-header h1 {
-    font: 700 53px / 24px Ubuntu;
-    color: #ffffff;
-    padding:79px 0 43px 0;
-
-}
-header p {
-    font: 700 15px / 24px PTSans;
-    color:#f5f5f5;
-
+    h1 {
+        font: 700 53px / 24px Ubuntu;
+        color: #ffffff;
+        padding:79px 0 43px 0;
+    }
+    h3 {
+        font: 400 52px / 24px Belinda;
+        color: #ffffff;
+        padding:65px 0;
+    }
+    li {
+        font: 600 13px / 24px OpenSans;
+        color: #ffffff;
+        text-decoration:none;
+        color: #ffffff;
+        display:inline;
+        padding:0 20px 0 0;
+        text-transform: uppercase;
+    }
+    p {
+        font: 700 15px / 24px PTSans;
+        color:#f5f5f5;
+    }
 }
 
 .btn-container {
@@ -100,38 +95,41 @@ header p {
     background: rgba(234, 234, 235, 0.6);
     padding:62px 110px 62px 110px;
 }
-.section-two h1 {
-    font: 700 16px / 24px PTSans;
-    color: #40474e;
-    padding-top:32px;
-}
-.section-two p {
-    font: 400 14px / 24px PTSans;
-    color: #787b80;
-    padding-top:20px;
-}
-.col-md-4:hover {
-    -moz-box-shadow: 0 0 10px #ccc;
-    -webkit-box-shadow: 0 0 10px #ccc;
-    box-shadow: 0 0 10px #ccc;
-}
-.section-two img {
-    padding:15px;
-    margin:0;
+.section-two{
+    h1 {
+      font: 700 16px / 24px PTSans;
+      color: #40474e;
+      padding-top:20px;
+      margin-top:0px;
+  }
+    p {
+      font: 400 14px / 24px PTSans;
+      color: #787b80;
+      padding-top:20px;
+  }
+  .col-md-4:hover {
+      -moz-box-shadow: 0 0 10px #ccc;
+      -webkit-box-shadow: 0 0 10px #ccc;
+      box-shadow: 0 0 10px #ccc;
+  }
+  i{
+   padding:15px;
+   margin:0px;
+   font-size:50px;
+ }
 }
 
 .section-three {
     padding:65px 105px;
     background-color:#fff;
-
-}
-.section-three h1 {
-    font: 700 18px / 24px PTSans;
-    color: #40474e;
-}
-.section-three p {
-    font: 400 14px / 24px PTSans;
-    color: #787b80;
+    h1 {
+        font: 700 18px / 24px PTSans;
+        color: #40474e;
+    }
+    p {
+        font: 400 14px / 24px PTSans;
+        color: #787b80;
+    }
 }
 .read-more {
     background-color:#50c3af;
@@ -155,51 +153,49 @@ header p {
 }
 .section-four {
     background-color: rgba(234, 234, 235, 0.6);
-}
-.section-four h1 {
-    background: url('../images/tockic.png') no-repeat left center;
-    padding:40px;
-}
-.read-more-gray {
-    background-color:#d2d5da;
-    border-radius: 40px;
-    -webkit-border-radius: 40px;
-    -moz-border-radius: 40px;
-    font-size: 17px;
-    color: #fff;
-    transition: all 0.5s ease;
-    -moz-transition: all 0.5s ease;
-    -webkit-transition: all 0.5s ease;
-    -o-transition: all 0.5s ease;
-    display: inline-block;
-    padding: 15px 50px;
-    margin: 34px 0 77px 0;
-}
-.read-more-gray:hover, read-more-gray:focus {
-    background-color: #33CCCC;
-    color: #fff;
-    text-decoration: none;
+    h1 {
+        background: url('../images/tockic.png') no-repeat left center;
+        padding:40px;
+    }
+    .read-more-gray {
+        background-color:#d2d5da;
+        border-radius: 40px;
+        -webkit-border-radius: 40px;
+        -moz-border-radius: 40px;
+        font-size: 17px;
+        color: #fff;
+        transition: all 0.5s ease;
+        -moz-transition: all 0.5s ease;
+        -webkit-transition: all 0.5s ease;
+        -o-transition: all 0.5s ease;
+        display: inline-block;
+        padding: 15px 50px;
+        margin: 34px 0 77px 0;
+    }
+    .read-more-gray:hover, read-more-gray:focus {
+        background-color: #33CCCC;
+        color: #fff;
+        text-decoration: none;
+    }
 }
 
 .section-five {
     padding:105px;
-
-
-}
-.section-five h1 {
-    font: 700 16px / 24px PTSans;
-    color: #40474e;
-}
-.section-five p {
-    font: 400 14px / 24px PTSans;
-    color: #787b80;
-}
-.section-five a {
-    font: 400 14px / 24px PTSans;
-    color: #50c3af;
-    text-decoration: none;
-}
-.section-five .padding {
-    padding-top: 15px;
-    padding-bottom: 15px;
+    h1 {
+        font: 700 16px / 24px PTSans;
+        color: #40474e;
+    }
+    p {
+        font: 400 14px / 24px PTSans;
+        color: #787b80;
+    }
+    a {
+        font: 400 14px / 24px PTSans;
+        color: #50c3af;
+        text-decoration: none;
+    }
+    .padding {
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
 }
