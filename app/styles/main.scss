@@ -4,90 +4,201 @@ $icon-font-path: "../bower_components/bootstrap-sass/assets/fonts/bootstrap/";
 @import "bower_components/bootstrap-sass/assets/stylesheets/_bootstrap.scss";
 // endbower
 
-.browsehappy {
-  margin: 0.2em 0;
-  background: #ccc;
-  color: #000;
-  padding: 0.2em 0;
+hr {
+    border: 2px solid rgba(41, 49, 57, 0.06);
+    margin: 3px;
 }
 
-/* Space out content a bit */
-body {
-  padding-top: 20px;
-  padding-bottom: 20px;
+header {
+    background-image: url(img/HeaderBG.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+header h3 {
+    font: 400 52px / 24px Belinda;
+    color: #ffffff;
+    padding:65px 0;
+
+}
+header li {
+    font: 600 13px / 24px OpenSans;
+    color: #ffffff;
+    text-decoration:none;
+    color: #ffffff;
+    display:inline;
+    padding:0 20px 0 0;
+    text-transform: uppercase;
+
 }
 
-/* Everything but the jumbotron gets side spacing for mobile first views */
-.header,
-.marketing,
-.footer {
-  padding-left: 15px;
-  padding-right: 15px;
+header h1 {
+    font: 700 53px / 24px Ubuntu;
+    color: #ffffff;
+    padding:79px 0 43px 0;
+
+}
+header p {
+    font: 700 15px / 24px PTSans;
+    color:#f5f5f5;
+
 }
 
-/* Custom page header */
-.header {
-  border-bottom: 1px solid #e5e5e5;
-
-  /* Make the masthead heading the same height as the navigation */
-  h3 {
-    margin-top: 0;
-    margin-bottom: 0;
-    line-height: 40px;
-    padding-bottom: 19px;
-  }
+.btn-container {
+  padding: 100px;
 }
 
-/* Custom page footer */
-.footer {
-  padding-top: 19px;
-  color: #777;
-  border-top: 1px solid #e5e5e5;
-}
-
-.container-narrow > hr {
-  margin: 30px 0;
-}
-
-/* Main marketing message and sign up button */
-.jumbotron {
+.btn {
+  position: relative;
+  display: block;
+  max-width: 300px;
+  padding: 10px 20px;
+  color: #fff;
+  font:700 25px / 24px PTSans;
   text-align: center;
-  border-bottom: 1px solid #e5e5e5;
-  .btn {
-    font-size: 21px;
-    padding: 14px 24px;
-  }
+  text-decoration: none;
+  border: none;
+  overflow: hidden;
+  -webkit-transition: color 150ms ease-in-out 150ms, border-color 300ms ease-out, box-shadow 300ms ease-in-out;
+  transition: color 150ms ease-in-out 150ms, border-color 300ms ease-out, box-shadow 300ms ease-in-out;
+  z-index: 1;
+}
+.btn.center {
+  margin: 0 auto;
+}
+.btn:after {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0,0,0,0.3);
+  z-index: -1;
+  -webkit-transform: scaleX(0);
+      -ms-transform: scaleX(0);
+          transform: scaleX(0);
+  -webkit-transition: -webkit-transform 300ms ease-out 200ms;
+          transition: transform 300ms ease-out 200ms;
+}
+.btn:hover {
+  color: white;
+  box-shadow: 0 0 16px rgba(255, 255, 255, 0.1);
+}
+.btn:hover:after {
+  -webkit-transform: scaleX(1);
+      -ms-transform: scaleX(1);
+          transform: scaleX(1);
+  -webkit-transform-origin: 50% 50%;
+      -ms-transform-origin: 50% 50%;
+          transform-origin: 50% 50%;
+  -webkit-transition: -webkit-transform 300ms ease-out;
+          transition: transform 300ms ease-out;
 }
 
-/* Supporting marketing content */
-.marketing {
-  margin: 40px 0;
-  p + h4 {
-    margin-top: 28px;
-  }
+.section-two{
+    background: rgba(234, 234, 235, 0.6);
+    padding:62px 110px 62px 110px;
+}
+.section-two h1 {
+    font: 700 16px / 24px PTSans;
+    color: #40474e;
+    padding-top:32px;
+}
+.section-two p {
+    font: 400 14px / 24px PTSans;
+    color: #787b80;
+    padding-top:20px;
+}
+.col-md-4:hover {
+    -moz-box-shadow: 0 0 10px #ccc;
+    -webkit-box-shadow: 0 0 10px #ccc;
+    box-shadow: 0 0 10px #ccc;
+}
+.section-two img {
+    padding:15px;
+    margin:0;
 }
 
-/* Responsive: Portrait tablets and up */
-@media screen and (min-width: 768px) {
-  .container {
-    max-width: 730px;
-  }
+.section-three {
+    padding:65px 105px;
+    background-color:#fff;
 
-  /* Remove the padding we set earlier */
-  .header,
-  .marketing,
-  .footer {
-    padding-left: 0;
-    padding-right: 0;
-  }
+}
+.section-three h1 {
+    font: 700 18px / 24px PTSans;
+    color: #40474e;
+}
+.section-three p {
+    font: 400 14px / 24px PTSans;
+    color: #787b80;
+}
+.read-more {
+    background-color:#50c3af;
+    border-radius: 40px;
+    -webkit-border-radius: 40px;
+    -moz-border-radius: 40px;
+    font-size: 17px;
+    color: #fff;
+    transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -webkit-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    display: inline-block;
+    padding: 15px 50px;
+    margin: 34px 0 77px 0;
+}
+.read-more:hover, read-more:focus {
+    background-color: #33CCCC;
+    color: #fff;
+    text-decoration: none;
+}
+.section-four {
+    background-color: rgba(234, 234, 235, 0.6);
+}
+.section-four h1 {
+    background: url('img/tockic.png') no-repeat left center;
+    padding:40px;
+}
+.read-more-gray {
+    background-color:#d2d5da;
+    border-radius: 40px;
+    -webkit-border-radius: 40px;
+    -moz-border-radius: 40px;
+    font-size: 17px;
+    color: #fff;
+    transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -webkit-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    display: inline-block;
+    padding: 15px 50px;
+    margin: 34px 0 77px 0;
+}
+.read-more-gray:hover, read-more-gray:focus {
+    background-color: #33CCCC;
+    color: #fff;
+    text-decoration: none;
+}
 
-  /* Space out the masthead */
-  .header {
-    margin-bottom: 30px;
-  }
+.section-five {
+    padding:105px;
 
-  /* Remove the bottom border on the jumbotron for visual effect */
-  .jumbotron {
-    border-bottom: 0;
-  }
+
+}
+.section-five h1 {
+    font: 700 16px / 24px PTSans;
+    color: #40474e;
+}
+.section-five p {
+    font: 400 14px / 24px PTSans;
+    color: #787b80;
+}
+.section-five a {
+    font: 400 14px / 24px PTSans;
+    color: #50c3af;
+    text-decoration: none;
+}
+.section-five .padding {
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
