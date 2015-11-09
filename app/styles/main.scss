@@ -10,7 +10,7 @@ hr {
 }
 
 header {
-    background-image: url(img/HeaderBG.jpg);
+    background-image: url('../images/HeaderBG.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -156,7 +156,7 @@ header p {
     background-color: rgba(234, 234, 235, 0.6);
 }
 .section-four h1 {
-    background: url('img/tockic.png') no-repeat left center;
+    background: url('../images/tockic.png') no-repeat left center;
     padding:40px;
 }
 .read-more-gray {
