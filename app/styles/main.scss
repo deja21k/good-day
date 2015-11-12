@@ -13,10 +13,97 @@ hr {
 h1 {
   font-family: LeagueSpartan-Bold;
 }
-.frame:hover {
-      -moz-box-shadow: 0 0 10px #ccc;
-      -webkit-box-shadow: 0 0 10px #ccc;
-    box-shadow: 0 0 10px #ccc; }
+
+
+.parent2 {
+  top: 20px;
+  left: 15px;
+  position: fixed;
+  display: block;
+  width: 100px;
+  height: 100px;
+  background-color: transparent;
+  border-radius: 50%;
+  z-index: 20;
+  -webkit-box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.75);
+}
+
+.test1 {
+  width: 60%;
+  height: 60%;
+  background-color: dimGray;
+  border-radius: 50%;
+  position: absolute;
+  color: white;
+  text-align: center;
+  line-height: 70px;
+  top: 25%;
+  left: 25%;
+  z-index: 19;
+  transition: all 500ms cubic-bezier(0.680, -0.550, 0.265, 1.550);
+  position: absolute;
+}
+
+.test2 {
+  width: 60%;
+  height: 60%;
+  background-color: dimGray;
+  border-radius: 50%;
+  position: absolute;
+  color: white;
+  text-align: center;
+  line-height: 70px;
+  top: 25%;
+  left: 25%;
+  z-index: 19;
+  transition: all 500ms cubic-bezier(0.680, -0.550, 0.265, 1.550) .2s;
+}
+
+.test3 {
+  width: 60%;
+  height: 60%;
+  background-color: dimGray;
+  border-radius: 50%;
+  position: absolute;
+  color: white;
+  text-align: center;
+  line-height: 70px;
+  top: 25%;
+  left: 25%;
+  transition: all 500ms cubic-bezier(0.680, -0.550, 0.265, 1.550) .4s;
+}
+
+.test4 {
+  width: 60%;
+  height: 60%;
+  background-color: dimGray;
+  border-radius: 50%;
+  position: absolute;
+  color: white;
+  text-align: center;
+  line-height: 70px;
+  top: 25%;
+  left: 25%;
+  transition: all 500ms cubic-bezier(0.680, -0.550, 0.265, 1.550) .6s;
+}
+
+.mask2 {
+  top: 20px;
+  left: 15px;
+  width: 100px;
+  height: 100px;
+  background: #50c3af;
+  border-radius: 50%;
+  position: absolute;
+  z-index: 21;
+  color: white;
+  text-align: center;
+  line-height: 120px;
+  cursor: pointer;
+  position: fixed;
+}
 
 header {
     background-image: url('../images/HeaderBG.jpg');
@@ -161,7 +248,7 @@ header {
 }
 .section-four {
     background-color: rgba(234, 234, 235, 0.6);
-    
+
     h1 {
         background: url('../images/tockic.png') no-repeat left center;
         padding:40px;
@@ -206,7 +293,7 @@ header {
 }
 .section-six {
     background-color: rgba(234, 234, 235, 0.6);
-    
+
     .col-md-6 {
         padding:80px;
     }
@@ -214,15 +301,15 @@ header {
         text-transform: uppercase;
         font: 700 18px / 24px PTSans;
         color: #40474e;
-        background:url('../images/airplane.png') no-repeat;
+        background:url('../images/airplane.png') no-repeat 100px top;
         padding-bottom: 20px;
-        
+
     }
     .pencil h1 {
         text-transform: uppercase;
         font: 700 18px / 24px PTSans;
         color: #40474e;
-        background:url('../images/pencil.png') no-repeat;
+        background:url('../images/pencil.png') no-repeat 85px top;
         padding-bottom: 20px;
     }
 
@@ -240,7 +327,7 @@ header {
     img{
         margin-top: 25px;
     }
-    
+
     h1 {
         color: #40474e;
         font: 700 18px / 24px PTSans;
@@ -273,22 +360,25 @@ header {
         color: #ffffff;
         padding:53px 0 30px;
         text-transform: uppercase;
-        
+
         }
     .aone {
         color: rgba(255, 255, 255, 0.7);
         font: 400 26px / 24px Belinda;
         text-decoration: none;
+        margin-right: 20px;
          }
     .atwo {
         color: rgba(255, 255, 255, 0.7);
         font: 400 26px / 24px NexaRegular;
         text-decoration: none;
+        margin-right: 20px;
     }
     .athree {
         color: rgba(255, 255, 255, 0.7);
         font: 400 26px / 24px Cabin;
         text-decoration: none;
+        margin-right: 20px;
     }
     .afour {
         color: rgba(255, 255, 255, 0.7);
@@ -303,16 +393,16 @@ header {
     }
 footer {
     padding:24px;
-    ul {
+ul{
     overflow: auto;
     margin:0;
 }
- 
+
 ul li {
     list-style-type: none;
     float: left;
 }
- 
+
 ul li a i {
     background: #205D7A;
     color: #fff;
@@ -327,7 +417,7 @@ ul li a i {
 }
 .fa-facebook {
     background:#3b5998
-} 
+}
 .fa-linkedin {
     background:#007bb6
 }
@@ -339,5 +429,9 @@ ul li a i {
 }
 ul li a i:hover {
     opacity: .7;
+}
+p {
+  margin:0;
+  padding:10px;
 }
 }
