@@ -1,0 +1,151 @@
+html	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^<html class="no-js" lang="">$/;"	function	line:2
+head	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^<head>$/;"	function	line:3
+meta	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^  <meta charset="utf-8">$/;"	function	line:4
+title	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^  <title>Have A Good Day<\/title>$/;"	function	line:5
+meta	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^  <meta name="description" content="">$/;"	function	line:6
+meta	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^  <meta name="viewport" content="width=device-width, initial-scale=1">$/;"	function	line:7
+link	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^  <link rel="shortcut icon" href="\/favicon.ico">$/;"	function	line:8
+link	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^  <link rel="apple-touch-icon" href="\/apple-touch-icon.png">$/;"	function	line:9
+link	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^  <link rel="stylesheet" href="\/bower_components\/components-font-awesome\/css\/font-awesome.css" \/>$/;"	function	line:14
+link	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^  <link rel="stylesheet" href="styles\/main.css">$/;"	function	line:18
+script	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^  <script src="\/bower_components\/modernizr\/modernizr.js"><\/script>$/;"	function	line:21
+body	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^<body>$/;"	function	line:25
+p	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^  <p class="browsehappy">You are using an <strong>outdated<\/strong> browser. Please <a href="http:\/\/browsehappy.com\/">upgrade your browser<\/a> to improve your experience.<\/p>$/;"	function	line:27
+div	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^  <div class="parent2">$/;"	function	line:29
+div	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^    <div class="test1"><a href="#"><i class="fa fa-user fa-2x white"><\/i><\/a><\/div>$/;"	function	line:30
+div	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^    <div class="test2"><a href="#"><i class="fa fa-graduation-cap fa-2x white"><\/i><\/a><\/div>$/;"	function	line:31
+div	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^    <div class="test3"><a href="#"><i class="fa fa-code fa-2x white"><\/i><\/a><\/div>$/;"	function	line:32
+div	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^    <div class="test4"><a href="#contact"><i class="fa fa-envelope-o fa-2x white"><\/i><\/a><\/div>$/;"	function	line:33
+div	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^    <div class="mask2"><i class="fa fa-home fa-3x"><\/i><\/div>$/;"	function	line:34
+header	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^  <header>$/;"	function	line:36
+div	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^    <div class="container">$/;"	function	line:37
+div	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^      <div class="row">$/;"	function	line:38
+div	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^        <div class="col-md-12 text-center">$/;"	function	line:39
+h	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^          <h3>DEJSONY<\/h3>$/;"	function	line:40
+h	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^          <h1>HAVE A GOOD DAY<\/h1>$/;"	function	line:41
+p	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^          <p>JUST FOR YOU ON THEMEFOREST<\/p>$/;"	function	line:42
+div	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^          <div class="btn-container">$/;"	function	line:43
+a	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^            <a href="javascript:void(0);" class="btn center">Contact Me<\/a>$/;"	function	line:44
+section	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^  <section class="section-two">$/;"	function	line:50
+div	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^    <div class="container">$/;"	function	line:51
+div	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^      <div class="row text-center">$/;"	function	line:52
+div	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^        <div class="col-md-4">$/;"	function	line:53
+a	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^          <a href="#"><i class="fa fa-users"><\/i><\/a>$/;"	function	line:54
+h	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^          <h1>PEOPLE<\/h1>$/;"	function	line:55
+hr	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^          <hr>$/;"	function	line:56
+p	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^          <p>Lorem ipsum dolor sit amet,<br>consectetur adipisicing.<br><\/p>$/;"	function	line:57
+div	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^        <div class="col-md-4">$/;"	function	line:59
+a	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^          <a href="#"><i class="fa fa-heart-o"><\/i><\/a>$/;"	function	line:60
+h	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^          <h1>LOVE<\/h1>$/;"	function	line:61
+hr	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^          <hr>$/;"	function	line:62
+p	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^          <p>Lorem ipsum dolor sit amet,<br>consectetur adipisicing.<br><\/p>$/;"	function	line:63
+div	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^        <div class="col-md-4">$/;"	function	line:65
+a	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^          <a href="#"><i class="fa fa-headphones"><\/i><\/a>$/;"	function	line:66
+h	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^          <h1>MUSIC<\/h1>$/;"	function	line:67
+hr	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^          <hr>$/;"	function	line:68
+p	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^          <p>Lorem ipsum dolor sit amet,<br>consectetur adipisicing.<br><\/p>$/;"	function	line:69
+section	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^  <section class="section-three text-center">$/;"	function	line:74
+div	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^    <div class="container">$/;"	function	line:75
+div	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^      <div class="row">$/;"	function	line:76
+div	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^        <div class="col-md-6">$/;"	function	line:77
+img	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^          <img src="images\/car1.jpg" class="img-thumbnail" alt="">$/;"	function	line:78
+h	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^          <h1>Lorem ipsum dolor.<\/h1>$/;"	function	line:79
+hr	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^          <hr>$/;"	function	line:80
+p	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.<br> Veniam itaque, quaerat temporibus odio ut fuga?<br><\/p>$/;"	function	line:81
+a	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^          <a href="#" class="read-more">Read more<\/a>$/;"	function	line:82
+div	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^        <div class="col-md-6">$/;"	function	line:84
+img	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^          <img src="images\/couple1.jpg" class="img-thumbnail" alt="">$/;"	function	line:85
+h	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^          <h1>Lorem ipsum dolor.<\/h1>$/;"	function	line:86
+hr	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^          <hr>$/;"	function	line:87
+p	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.<br> Veniam itaque, quaerat temporibus odio ut fuga?<br><\/p>$/;"	function	line:88
+a	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^          <a href="#" class="read-more">Read more<\/a>$/;"	function	line:89
+section	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^  <section class="section-four">$/;"	function	line:94
+div	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^    <div class="container">$/;"	function	line:95
+div	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^      <div class="row">$/;"	function	line:96
+div	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^        <div class="col-md-12">$/;"	function	line:97
+h	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^          <h1 >Lorem ipsum dolor.<\/h1>$/;"	function	line:98
+hr	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^          <hr>$/;"	function	line:99
+p	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse malesuada sodales risus, a adipiscing lorem commodo vitae. Ut semper semper lacus. Suspendisse convallis vel tellus at consectetur. Aenean risus arcu<\/p>$/;"	function	line:100
+a	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^          <a href="#" class="read-more-gray read-more">Read more<\/a>$/;"	function	line:101
+section	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^  <section class="section-five">$/;"	function	line:106
+div	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^    <div class="container">$/;"	function	line:107
+div	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^      <div class="row">$/;"	function	line:108
+div	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^        <div class="col-md-4 text-center padding">$/;"	function	line:109
+img	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^          <img src="images\/semafor2.jpg" class="img-thumbnail" alt="">$/;"	function	line:110
+h	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^          <h1>Lorem ipsum dolor<\/h1>$/;"	function	line:111
+p	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^          <p>Lorem ipsum dolor sit amet,<br>consectetur adipiscing elit.<br><\/p>$/;"	function	line:112
+a	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^          <a href="#">Check this out ><\/a>$/;"	function	line:113
+div	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^        <div class="col-md-4 text-center padding">$/;"	function	line:115
+img	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^          <img src="images\/riba2.jpg" class="img-thumbnail" alt="">$/;"	function	line:116
+h	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^          <h1>Lorem ipsum dolor<\/h1>$/;"	function	line:117
+p	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^          <p>Lorem ipsum dolor sit amet,<br>consectetur adipiscing elit.<br><\/p>$/;"	function	line:118
+a	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^          <a href="#">Check this out ><\/a>$/;"	function	line:119
+div	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^        <div class="col-md-4 text-center padding">$/;"	function	line:121
+img	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^          <img src="images\/tike.jpg" class="img-thumbnail" alt="">$/;"	function	line:122
+h	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^          <h1>Lorem ipsum dolor<\/h1>$/;"	function	line:123
+p	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^          <p>Lorem ipsum dolor sit amet,<br>consectetur adipiscing elit.<br><\/p>$/;"	function	line:124
+a	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^          <a href="#">Check this out ><\/a>$/;"	function	line:125
+section	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^  <section class="section-six">$/;"	function	line:130
+div	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^    <div class="container">$/;"	function	line:131
+div	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^      <div class="row">$/;"	function	line:132
+div	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^        <div class="col-md-6 text-center ">$/;"	function	line:133
+h	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^          <h1 class="airplane">send it now<\/h1>$/;"	function	line:134
+hr	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^          <hr>$/;"	function	line:135
+p	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam voluptates cumque autem, perspiciatis ab ipsa?<\/p>$/;"	function	line:136
+a	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^          <a href="#" class="read-more">Read more<\/a>$/;"	function	line:137
+div	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^        <div class="col-md-6 text-center">$/;"	function	line:139
+h	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^          <h1 class="pencil">very nice to see<\/h1>$/;"	function	line:140
+hr	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^          <hr>$/;"	function	line:141
+p	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam voluptates cumque autem, perspiciatis ab ipsa?<\/p>$/;"	function	line:142
+a	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^          <a href="#" class="read-more">Read more<\/a>$/;"	function	line:143
+section	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^  <section class="section-seven">$/;"	function	line:148
+div	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^    <div class="container">$/;"	function	line:149
+div	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^      <div class="row text">$/;"	function	line:150
+div	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^        <div class="col-md-6 text-center">$/;"	function	line:151
+img	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^          <img src="images\/redcarpet3.jpg" class="img-thumbnail" alt="">$/;"	function	line:152
+div	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^        <div class="col-md-6 text-center">$/;"	function	line:154
+h	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^          <h1>Lorem ipsum dolor sit amet<\/h1>$/;"	function	line:155
+hr	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^          <hr>$/;"	function	line:156
+p	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia quo at qui aspernatur molestias enim, quod vero, laboriosam facere numquam?<\/p>$/;"	function	line:157
+a	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^          <a href="#" class="read-more-gray read-more">Read more<\/a>$/;"	function	line:158
+section	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^  <section class="section-eight" id="contact">$/;"	function	line:163
+div	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^    <div class="container">$/;"	function	line:164
+div	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^      <div class="row text-center">$/;"	function	line:165
+div	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^        <div class="col-md-12">$/;"	function	line:166
+h	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^          <h1><i class="fa fa-star-o"><\/i> Lorem ipsum dolor sit amet<\/h1>$/;"	function	line:167
+hr	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^        <hr>$/;"	function	line:169
+div	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^        <div class="col-md-12">$/;"	function	line:170
+a	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^          <a href="#" class="aone">Lorem<\/a>$/;"	function	line:171
+a	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^          <a href="#" class="atwo">Lorem<\/a>$/;"	function	line:172
+a	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^          <a href="#" class="athree">Lorem<\/a>$/;"	function	line:173
+a	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^          <a href="#" class="afour">Lorem<\/a>$/;"	function	line:174
+footer	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^  <footer>$/;"	function	line:179
+div	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^    <div class="container">$/;"	function	line:180
+div	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^      <div class="row text-center">$/;"	function	line:181
+div	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^        <div class="col-md-6">$/;"	function	line:182
+p	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^          <p><a href="#">Dejsony &copy;<\/a> Copyright 2015 - Unsubscribe here<\/p>$/;"	function	line:183
+div	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^        <div class="col-md-6">$/;"	function	line:185
+ul	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^          <ul>$/;"	function	line:186
+li	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^            <li><a href="http:\/\/facebook.com\/"><i class="fa fa-facebook"><\/i><\/a><\/li>$/;"	function	line:187
+li	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^            <li><a href="http:\/\/linkedin.com\/"><i class="fa fa-linkedin"><\/i><\/a><\/li>$/;"	function	line:188
+li	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^            <li><a href="http:\/\/twitter.com\/"><i class="fa fa-twitter"><\/i><\/a><\/li>$/;"	function	line:189
+li	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^            <li><a href="http:\/\/plus.google.com\/"><i class="fa fa-google-plus"><\/i><\/a><\/li>$/;"	function	line:190
+script	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^    <script src="\/bower_components\/jquery\/dist\/jquery.js"><\/script>$/;"	function	line:201
+script	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^    <script src="\/bower_components\/bootstrap-sass\/assets\/javascripts\/bootstrap\/affix.js"><\/script>$/;"	function	line:207
+script	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^    <script src="\/bower_components\/bootstrap-sass\/assets\/javascripts\/bootstrap\/alert.js"><\/script>$/;"	function	line:208
+script	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^    <script src="\/bower_components\/bootstrap-sass\/assets\/javascripts\/bootstrap\/dropdown.js"><\/script>$/;"	function	line:209
+script	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^    <script src="\/bower_components\/bootstrap-sass\/assets\/javascripts\/bootstrap\/tooltip.js"><\/script>$/;"	function	line:210
+script	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^    <script src="\/bower_components\/bootstrap-sass\/assets\/javascripts\/bootstrap\/modal.js"><\/script>$/;"	function	line:211
+script	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^    <script src="\/bower_components\/bootstrap-sass\/assets\/javascripts\/bootstrap\/transition.js"><\/script>$/;"	function	line:212
+script	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^    <script src="\/bower_components\/bootstrap-sass\/assets\/javascripts\/bootstrap\/button.js"><\/script>$/;"	function	line:213
+script	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^    <script src="\/bower_components\/bootstrap-sass\/assets\/javascripts\/bootstrap\/popover.js"><\/script>$/;"	function	line:214
+script	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^    <script src="\/bower_components\/bootstrap-sass\/assets\/javascripts\/bootstrap\/carousel.js"><\/script>$/;"	function	line:215
+script	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^    <script src="\/bower_components\/bootstrap-sass\/assets\/javascripts\/bootstrap\/scrollspy.js"><\/script>$/;"	function	line:216
+script	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^    <script src="\/bower_components\/bootstrap-sass\/assets\/javascripts\/bootstrap\/collapse.js"><\/script>$/;"	function	line:217
+script	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^    <script src="\/bower_components\/bootstrap-sass\/assets\/javascripts\/bootstrap\/tab.js"><\/script>$/;"	function	line:218
+script	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^    <script src="scripts\/main.js"><\/script>$/;"	function	line:223
+script	/Users/bojanlazic/Documents/dejs/good-day/app/index.html	/^    <script>$/;"	function	line:227
+icon-font-path	/Users/bojanlazic/Documents/dejs/good-day/app/styles/main.scss	/^$icon-font-path: '..\/bower_components\/bootstrap-sass\/assets\/fonts\/bootstrap\/';$/;"	function	line:1
+.read-more:hover	/Users/bojanlazic/Documents/dejs/good-day/app/styles/main.scss	/^.read-more:hover,$/;"	function	line:329
+.read-more-gray:hover	/Users/bojanlazic/Documents/dejs/good-day/app/styles/main.scss	/^    .read-more-gray:hover,$/;"	function	line:355
+.read-more-gray:hover	/Users/bojanlazic/Documents/dejs/good-day/app/styles/main.scss	/^    .read-more-gray:hover,$/;"	function	line:480
